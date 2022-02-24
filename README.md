@@ -1,0 +1,2 @@
+# BattleShip-In-C-
+Within my OOP class that was part of my masters studies I created a battleship game using C++, the main goal was to implement what I had learnt in OOP.  The game works by two players entering coordinates for their ship locations both having 5 different ships each with various sizes and then take in turns entering coordinates they think the other player has placed their ship on, if a player manages to sink all of the opposing players ships then they have won.
